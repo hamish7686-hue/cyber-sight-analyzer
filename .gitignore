@@ -30,3 +30,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data & Models
+datasets/
+saved_models/
+uploads/
+*.h5
+*.pkl
+*.joblib
+
+# Misc
+.env
